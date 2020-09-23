@@ -24,3 +24,7 @@ def my_function():
 
 
 my_function()
+
+
+
+""" https://medium.com/@giselezrossi/decorator-with-python-dba2016706c f"""
